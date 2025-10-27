@@ -1,0 +1,33 @@
+       -- CASE 1
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Vanishing Necklace" , "A storm rages outside as Detective Hale arrives at the grand manor. The guests are gathered in the parlor, the air thick with tension. Lady Evelyn’s diamond necklace — a family heirloom worth millions — has vanished during her annual charity dinner.
+Five people were present, and one of them is lying.");
+
+       -- CASE 2
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Poisoned Cup" , "As laughter fills the hall, an art critic collapses mid-toast. The wine glass shatters, and panic spreads among the city’s elite. The bottle was switched — but by whom?
+The only thing more intoxicating than the wine tonight… is deceit.");
+
+       -- CASE 3
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Silent Witness" , "The body of a local journalist lies cold in the rain-soaked alley. No witnesses, no suspects… except a stray dog that refuses to leave the scene.
+The dog saw something — and its loyalty may reveal more than words ever could.");
+
+        
+       -- CASE 4
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Coded Heist","No alarms were triggered. No doors forced open. Yet, millions have vanished from the city’s most secure vault. The only clue — a message in binary and a Latin phrase etched into the mainframe:
+“Veritas liberabit nos.” (The truth shall set us free.));
+
+       -- CASE 5
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Crimson Conspiracy","The threads of every previous case intertwine into one crimson knot. Evidence points to a secret organization — The Crimson Veil — infiltrating the city’s institutions.
+Every step brings Hale closer to the truth… and to betrayal.");
+
+       -- CASE 6 (Optional/Final)
+INSERT INTO cases (case_title, case_description)
+VALUES ("The Choice of Shadows","The final revelation: Chief Inspector Graham Voss, Hale’s mentor, stands before him — the leader of The Crimson Veil.
+The rain outside turns red as the detective faces the hardest choice of his life.
+“You’ve seen the truth, Rowan,” Voss says. “Now tell me — will you destroy the system… or rule it?”");
+
+        
